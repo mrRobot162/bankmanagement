@@ -1,2 +1,2 @@
 # bankmanagement
-This is a bankmanagement sytem code written in java
+This is a bankmanagement system code written in java
